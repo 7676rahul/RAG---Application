@@ -6,3 +6,4 @@ sentence-transformers
 python-dotenv
 sqlite-utils
 groq
+sqlalchemy>=2.0.0
