@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+agno
+chromadb
+sentence-transformers
+python-dotenv
+sqlite-utils
+groq

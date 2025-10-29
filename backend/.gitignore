@@ -1,0 +1,19 @@
+# Ignore environment and API keys
+.env
+
+# Ignore databases and vector stores
+*.db
+*.sqlite3
+medical_vectordb/
+chroma.sqlite3
+medical_agent.db
+feedback.db
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore virtual environments
+venv/
+.env/
